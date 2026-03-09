@@ -16,3 +16,11 @@ Categories of Programming:
 - High Level Programming Language (PHP, C, JS, Java, Python)
 - Low Level Programming Language (Assembely Language)
 - Machine Language (Binary) 0 & 1
+
+Translation:
+
+- Compiler.
+- Interpretation.
+- Assembler.
+
+Jupyter Notebook (IDE - Integrated Development Envoirment).
