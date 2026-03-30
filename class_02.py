@@ -35,11 +35,12 @@
 # and && (All conditions has to be true)
 # not !
 
-age = input("Enter your age: ")
-gender = input("Enter your Gender: ")
+age = int(input("Enter your age: "))
+# gender = input("Enter your Gender: ")
 
-if a > 3:
+if age >= 18:
     print("Good")
+elif age == 17:
+    print("Average")
 else:
     print("Bad")
-
